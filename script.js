@@ -2,9 +2,9 @@
 function generateGallery() {
     const gallery = document.querySelector('.gallery');
     const photos = [
-        { src: 'img1.jpeg', alt: 'Photo 1' },
-        { src: 'img2.jpeg', alt: 'Photo 2' },
-        { src: 'img3.jpeg', alt: 'Photo 3' },
+        { src: 'img1.jpg', alt: 'Photo 1' },
+        { src: 'img2.jpg', alt: 'Photo 2' },
+        { src: 'img3.jpg', alt: 'Photo 3' },
         // Add more photos as needed
     ];
 
